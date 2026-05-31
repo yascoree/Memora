@@ -1,6 +1,6 @@
 # Memora
 
-Smart Note is an Android note-taking app with authentication, note management, and an AI assistant for note-related help.
+Memora is an Android note-taking app with authentication, note management, and an AI assistant for note-related help.
 
 ## Features
 
